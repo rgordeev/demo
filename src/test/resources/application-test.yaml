@@ -1,0 +1,13 @@
+application:
+  a: "some string"
+  b:
+    - 1
+    - 2
+    - 3
+  c:
+    - "one"
+    - "two"
+    - "three"
+  m:
+    - one: 1
+    - two: 2
