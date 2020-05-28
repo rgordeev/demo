@@ -146,7 +146,7 @@ SPRING_APPLICATION_JSON = {
 
 ```
 Expecting                            Actual
- a == null                           a == ""
+ a == ""                             a == ""
  b == null | empty array list        b == []
  c == null | empty array list        c == []
  m == null | empty map               m == {}

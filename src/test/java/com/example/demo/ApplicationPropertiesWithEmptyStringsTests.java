@@ -43,7 +43,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  *
  *
  * Expecting                            Actual
- *  a == null                           a == ""
+ *  a == ""                             a == ""
  *  b == null | empty array list        b == []
  *  c == null | empty array list        c == []
  *  m == null | empty map               m == {}
